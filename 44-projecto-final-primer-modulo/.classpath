@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cpjlaboratoriofinal"/>
+	<classpathentry kind="src" path="mx.com.gm.peliculas.domain"/>
+	<classpathentry kind="src" path="mx.com.gm.peliculas.excepciones"/>
+	<classpathentry kind="src" path="mx.com.gm.peliculas.negocio"/>
+	<classpathentry kind="src" path="mx.com.peliculas.datos"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

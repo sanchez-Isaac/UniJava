@@ -1,0 +1,14 @@
+Nombre de tipo generico  |  Significado del tipo generico
+---------------------------------------------------------
+          E              | Element(Utilizado generalmente por el framework de colecciones de java)
+---------------------------------------------------------
+          K              | Key (Llave, utilizado en mapas)
+---------------------------------------------------------
+          N              | Number (Utilizado para numeros)
+--------------------------------------------------------- 
+          T              | Type(representa un tipo , es decir, una clase)
+---------------------------------------------------------
+          V              | Value(Representa un valor, tambien se usa en mapas
+---------------------------------------------------------
+        S,U,V            | Usado para representar otros tipos.
+---------------------------------------------------------

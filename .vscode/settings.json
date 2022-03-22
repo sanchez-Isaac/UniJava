@@ -1,0 +1,8 @@
+{
+    "java.help.shareDiagnostics": true,
+    "java.project.sourcePaths": [
+        "24-argumentos-variables",
+        "23-projecto-final/MundoPC/src",
+        "25-enum-pt1/test"
+    ]
+}

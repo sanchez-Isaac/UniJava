@@ -1,0 +1,23 @@
+Uso de modificadores de acceso en java
+
+Esta tabla indica que cosas pueden ser declaradas con los modificadores
+
+Modificador|   clase   |  variable  |   Metodo  |  constructor | 
+-----------|-----------|------------|-----------|--------------|
+  public   |     Si    |     Si     |     Si    |      Si      |
+-----------|-----------|------------|-----------|--------------|
+ protected |     No    |     Si     |     Si    |      Si      |
+-----------|-----------|------------|-----------|--------------|
+  default* |     Si    |     Si     |     Si    |      Si      |
+-----------|-----------|------------|-----------|--------------|
+  private  |     No    |     Si     |     Si    |      Si      |
+-----------|-----------|------------|-----------|--------------|
+
+protected no puede usarse directamente desde main, pero si usando
+herencia desde la clase hija en main.
+
+default* no permite que las clases hijas usen la clase padre sin estar
+en el mismo package.
+
+Private no se puede usar en clases, en todos los demas si funciona, pero 
+Tendremos que usar los getters/setters

@@ -1,0 +1,14 @@
+public class TestOperaciones {  
+  public static void main(String args[]) { 
+ var resultado = Operaciones.sumar(5,3);
+ System.out.println("resultado: " + resultado);
+
+ var resultado2 = Operaciones.sumar(5.6,3);
+ System.out.println("resultado: " + resultado);
+
+ var resultado3 = Operaciones.sumar(5,3L);
+ System.out.println("resultado: " + resultado);
+  } 
+}
+
+
